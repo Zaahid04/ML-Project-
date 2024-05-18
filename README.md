@@ -1,5 +1,5 @@
 # Project Title
-Gurgaon real estate
+Gurgaon Real Estate
 
 ## Team Members and Contributions
 
@@ -15,4 +15,4 @@ Gurgaon real estate
 
 ## Project Overview
 
- using different techniques for handling missing values and detecting outliers in the gurgaon real estate dataset that contains information about its real estate properties
+ Using different techniques for handling missing values and detecting outliers in the gurgaon real estate dataset that contains information about its real estate properties
